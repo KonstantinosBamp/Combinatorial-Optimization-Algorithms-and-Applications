@@ -1,7 +1,6 @@
 /*
  * implementation of the Ford-Fulkerson Algorithm for Max-Flow program 
  * Note: Ford-Fulkerson uses BFS to search for augmenting paths in the residual graph
- * tester program from GeeksforGeeks that will be modified for the PL Elimination problem 
  */
 import java.io.*;
 import java.lang.*;
